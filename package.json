@@ -6,6 +6,10 @@
 		"name": "6x68",
 		"url": "https://codeberg.org/bab"
 	},
+	"publishConfig": {
+		"access": "public",
+		"provenance": true
+	},
 	"license": "AGPL-3.0-or-later",
 	"files": [
 		"src",
